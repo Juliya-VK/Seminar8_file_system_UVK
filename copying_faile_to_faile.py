@@ -17,4 +17,3 @@ def copy_file_contents(source_file, destination_file):
 source_file = 'data_1.txt'
 destination_file = 'data_2.txt'
 
-copy_file_contents(source_file, destination_file)
